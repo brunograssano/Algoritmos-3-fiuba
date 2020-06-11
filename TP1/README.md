@@ -3,6 +3,6 @@
    
    
    
-*El informe puede verse en la carpeta de Smalltalk   
-*No se inlcluyeron todos los tests realizados en la version de Java, estos se encuentran en la version de Smalltalk
+*El informe puede verse en la carpeta de Smalltalk*   
+*No se inlcluyeron todos los tests realizados en la version de Java, estos se encuentran en la version de Smalltalk*
 
