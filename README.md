@@ -12,6 +12,7 @@ Durante esta materia se vio OOP
 * "Replace Conditional With Polymorphism", SourceMaking
 * "What's a Model For?", Martin Fowler
 * "Pruebas de software", Carlos Fontela
+* "Code Complete", Chapter 5 Design in Construction, Steve McConnell
 ### Segunda parte:
 * "Continuous Integration", Martin Fowler
 * "Estado del arte y tendencias en Test-Driven Development", Carlos Fontela
