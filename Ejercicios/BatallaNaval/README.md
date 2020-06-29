@@ -9,12 +9,12 @@ e) Ubicar 8 botes en lugares aleatorios del tablero
 # Batalla de Botes II
 Extender el juego Batalla de Botes para que soporte tanto los tipos de botes y disparos como las reglas enumeradas a continuación.
 Barcos
-• Lancha
-• Bote a Remo
-• Yate
+* Lancha
+* Bote a Remo
+* Yate
 Disparos
-• Convencional
-• Misil
+* Convencional
+* Misil
 Reglas
-• Los yates solo son afectados solo por los Misiles.
-• Se necesitan dos disparos convencionales para hundir una Lancha.
+* Los yates solo son afectados solo por los Misiles.
+* Se necesitan dos disparos convencionales para hundir una Lancha.
